@@ -1,0 +1,19 @@
+{
+    "name": "composeryx/bth",
+    "description": "这是一个composer测试vendor测试",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "batianhu",
+            "email": "610698057@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "firstComposer\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}

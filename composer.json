@@ -1,0 +1,16 @@
+{
+    "name": "test/batianhu",
+    "description": "这是一个霸天虎的测试包",
+    "authors": [
+        {
+            "name": "batianhu",
+            "email": "610698057@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "firstComposer\\": "src/"
+        }
+    },
+    "require": {}
+}
